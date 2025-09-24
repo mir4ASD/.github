@@ -6,13 +6,9 @@ This resource is designed for researchers working in neurogenetics, transcriptom
 
 Key features of mir4ASD: 
 
-Integrates gene expression and miRNA profiling data from ASD-control studies  
-
-Highlights tissue-specific expression patterns across brain and peripheral samples 
-
-Includes miRNAs with reported genetic variants — an underexplored area in ASD research 
-
-Supports biomarker discovery, functional studies, and genetic research in ASD 
-
+* Integrates gene expression and miRNA profiling data from ASD-control studies  
+* Highlights tissue-specific expression patterns across brain and peripheral samples 
+* Includes miRNAs with reported genetic variants — an underexplored area in ASD research 
+* Supports biomarker discovery, functional studies, and genetic research in ASD 
 
 If you use this database, please cite: (TBD: paper in prep)
